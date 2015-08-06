@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api1.m.dbfun.cn/static/downloads/v5/ios/pzrs_230_20150706_v5.ipa</string>
+                    <string>http://api1.m.dbfun.cn/static/downloads/v5/ios/ylpmr_230_20150806_v5.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>pzrs_230_20150706_v5</string>
+                <string>ylpmr_230_20150806_v5</string>
             </dict>
         </dict>
     </array>
