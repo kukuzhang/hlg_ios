@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api1.m.dbfun.cn/static/downloads/v6/ios/hlg_180_20150816_v1.0.5.ipa</string>
+                    <string>http://api1.m.dbfun.cn/static/downloads/v5/ios/KONG_262_20150814_v5.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,9 +23,10 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>hlg_180_20150816_v1.0.5.ipa</string>
+                <string>KONG_262_20150814_v5</string>
             </dict>
         </dict>
     </array>
 </dict>
+
 </plist>
