@@ -16,6 +16,7 @@
             </array>
             <key>metadata</key>
             <dict>
+
                 <key>bundle-identifier</key>
                 <string>com.honglinguo.Hlgmall</string>
                 <key>bundle-version</key>
@@ -24,6 +25,7 @@
                 <string>software</string>
                 <key>title</key>
                 <string>cpb_256_20150816_v1.0.5.ipa</string>
+
             </dict>
         </dict>
     </array>
