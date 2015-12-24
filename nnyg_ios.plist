@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api.dev.niueasy.com/downloads/CowCowJob.ipa</string>
+                    <string>http://api.dev.niueasy.com/downloads/nnyg_1.0_20151225.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>cn.js.CowCouJob</string>
+                <string>cn.js.Cowcow</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>CowCowJob.ipa</string>
+                <string>nnyg_1.0_20151225.ipa</string>
             </dict>
         </dict>
     </array>
