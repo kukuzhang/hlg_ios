@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://images.niueasy.com/app/nnyg_1.0_201502011222.ipa</string>
+                    <string>http://images.niueasy.com/app/nnyg_1.0_201602020045.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>nnyg_1.0_201502011222.ipa</string>
+                <string>nnyg_1.0_201602020045.ipa</string>
             </dict>
         </dict>
     </array>
